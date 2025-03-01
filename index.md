@@ -1,8 +1,8 @@
-# Li Chen, Hsu 許秝甄
+# YUN-TSE, LAN 藍允澤
 
 ## 👩‍🎓 學歷
-- 苗栗縣立啟新國民中學
-- 臺中市立臺中女子高級中等學校
+- 臺北市立中正國民中學
+- 臺北市立建國高級中學
 - 國立陽明交通大學-資訊管理與財務金融學系
 
 ---
@@ -22,9 +22,9 @@
 ---
 
 # 🔗 社群網站
-[Facebook](https://www.facebook.com/profile.php?id=100011524573715&locale=zh_TW)
+[Facebook]
 
-[Instagram](https://www.instagram.com/star_0990/)
+[Instagram](https://www.instagram.com/bluelan_yun/)
 
 
 <style>
