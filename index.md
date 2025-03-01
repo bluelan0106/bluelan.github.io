@@ -12,21 +12,21 @@ theme: jekyll-theme-cayman
 ---
 
 ## 🍽 喜歡的食物
-- 可麗露
-- 巧克力
-- 烏龍茶
+- 拉麵
+- 提拉米蘇
+- 冰淇淋
 
 ---
 
 ## 🎨 愛好
-- 看動漫
-- 玩遊戲
-- 閱讀
+- 跳舞
+- 音樂
+- 貓咪
 
 ---
 
 # 🔗 社群網站
-[Facebook]
+[Facebook](https://www.facebook.com/profile.php?id=100014540744789&locale=zh_TW)
 
 [Instagram](https://www.instagram.com/bluelan_yun/)
 
